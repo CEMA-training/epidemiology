@@ -1,0 +1,15 @@
+---
+title: "Introduction to Concepts in Epidemiology"
+format: html
+editor: visual
+---
+
+## Course Objective:
+
+The course is an in-depth introduction to epidemiology and targets those seeking to conduct epidemiologic research or work in the global health space. By the end of the training, participants should be able to:
+
+-   Demonstrate an understanding of the fundamental principles of epidemiology as applied to public health and veterinary science.
+-   Know and apply appropriate epidemiological study designs and measures to investigate disease-related events in a population.
+-   Critically analyze epidemiological data and present the results of statistical analyses with appropriate inferences.
+-   Appropriately evaluate the strengths and limitations of epidemiological studies, including bias, confounding, and effect modification.
+-   Utilize epidemiological principles to design and conduct studies, interpret diagnostic tests, and apply ndings to inform decision-making.
