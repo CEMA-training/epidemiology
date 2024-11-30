@@ -1,0 +1,28 @@
+---
+title: "Tutorials"
+format: 
+  html:
+    code-fold: false
+    code-tools: false
+editor: visual
+---
+
+::: callout-tip
+## Course Tutorials
+:::
+
+We have borrowed these tutorials from the Clinic on the Meaningful Modelling of Epidemiological Data under the [International Clinics on Infectious Disease Dynamics and Data](http://www.ici3d.org).
+
+To access these tutorials, you will need to install the ICI3D R package which can be installed using these steps:
+
+-   Open R studio and install an R package called **remotes** `install.packages('remotes')`
+
+-   Use this command to install the ICI3D package: `remotes::install_github('ICI3D/ici3d-pkg')`
+
+The tutorials we will be using this week may be accessed using the commands below:
+
+-   Dynamical Fever tutorial: **ICI3D::dynamicalFever()**
+
+-   Heterogeneity tutorial: **ICI3D::heterogeneityTutorial()**
+
+-   HIV tutorial: **ICI3D::hivTutorial()**
